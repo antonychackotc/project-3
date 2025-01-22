@@ -32,6 +32,8 @@ Multiple Disease Prediction
      
      #dataset type 
       * balanced or unbalanced dataset
+      if a balanced dataset shows only Accuracy
+      otherwise unbalanced datasets shows - precession,recall,f1_score
       
       #Numerical
       * analyze target column has Continous or discreet
