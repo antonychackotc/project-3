@@ -39,13 +39,13 @@ Multiple Disease Prediction
       * analyze target column has Continous or discreet
       * if Continous use (Linear Regression, Polynomial Regression, Ridge Regression, Lasso Regression, SVM Regression)
       * else: use Discret ( Decision Tree Regression, Random Forest Regression (Bagging type), XG Boosting 
-       Regression(Boosting type), Nave Bayes Regression and SVM Regression )
+       Regression(Boosting type), Nave Bayes Regression,KNN Importer and SVM Regression )
        
        #Categorical
        * Analyze Column type has Binary or Multiclass
        * if Binary use ( Logistic Regression, SVM Classifier)
        *else Multiclass (Decision Tress Classifier, Random Forest Classifier, XG Boosting Classifier, Nave Bayes 
-      Classifier and SVM Classifier
+      Classifier,KNN Classifier and SVM Classifier
 
   #Part_5
 
