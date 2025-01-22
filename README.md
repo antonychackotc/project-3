@@ -1,7 +1,5 @@
 # project-3
 
-# project-3
-
 Multiple Disease Prediction 
 
 #Part_1 
